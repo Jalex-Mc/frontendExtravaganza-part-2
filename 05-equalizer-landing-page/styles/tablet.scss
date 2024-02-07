@@ -1,0 +1,118 @@
+@use 'sass:math';
+$whitish-color: #fcfaf9;
+$purplish-bluish-color: #191826;
+@function pxtoRem($pxValue) {
+    @return math.div($pxValue, 16px) * 1rem;
+}
+
+@mixin tablet-css {
+    @media (min-width: 768px) {
+
+        body {
+            background-image: url("/styles/bg-main-tablet.png");
+            background-position: -387px -302px;
+        }
+
+        header {
+            // margin: pxtoRem(61.99px), 0, pxtoRem(95.01px), pxtoRem(39.15px);
+            margin-top: pxtoRem(61.99px);
+            margin-right: 0;
+            margin-bottom: pxtoRem(95.01px);
+            margin-left: pxtoRem(39.15px);
+            position: relative;
+        }
+
+        #background-pattern {
+            position: absolute;
+            display: inline;
+            max-width: pxtoRem(266.67px);
+            top: -225px;
+            right: -60px;
+        }
+
+        .hero-section {
+            position: relative;
+            display: flex;
+            max-width: 100vw;
+            justify-content: space-between;
+            margin: 0, 0, pxtoRem(249px) pxtoRem(39px);
+            margin-bottom: pxtoRem(249px);
+            margin-left: pxtoRem(39px);
+        }
+
+        .left-hero-section>h1 {
+            font-size: pxtoRem(64px);
+            line-height: pxtoRem(64px);
+            letter-spacing: pxtoRem(-0.73px);
+            margin-bottom: pxtoRem(28px);
+            max-width: pxtoRem(520px);
+        }
+
+        .left-hero-section>p {
+            font-size: pxtoRem(18px);
+            line-height: pxtoRem(28px);
+            max-width: pxtoRem(514px);
+        }
+
+        .mid-section {
+            display: flex;
+            // this element doesn't accept the below property for some reason
+            // margin: 0, 39px, 183px, 33px;
+            // maybe a sass bug?
+            margin-left: pxtoRem(33px);
+            margin-right: pxtoRem(39px);
+            margin-bottom: pxtoRem(183px);
+            min-width: pxtoRem(696px);
+            min-height: pxtoRem(600px);
+            background-color: $purplish-bluish-color;
+            border-radius: 12px;
+            position: sticky;
+        }
+
+        #phone {
+            max-width: pxtoRem(270.21px);
+            position: absolute;
+            right: 385px;
+            top: -140px;
+        }
+
+        #background-pattern-2 {
+            min-width: pxtoRem(280px);
+            position: absolute;
+            top: -24px;
+            left: 205px;
+        }
+
+        .download-section {
+            position: absolute;
+            max-width: pxtoRem(399px);
+            top: 150px;
+            right: 82px;
+        }
+
+        footer {
+            margin-right: pxtoRem(39px);
+            margin-bottom: pxtoRem(85px);
+            margin-left: pxtoRem(33px);
+            padding: 0;
+        }
+
+        .footer-flex {
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            align-content: center;
+            margin: 0;
+        }
+
+        .footer-flex > p {
+            max-width: pxtoRem(366px);
+            margin: 0;
+        }
+
+        #socials {
+            min-width: pxtoRem(100px);
+        }
+
+    }
+}

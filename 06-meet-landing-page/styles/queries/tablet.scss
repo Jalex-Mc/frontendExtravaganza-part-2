@@ -1,0 +1,110 @@
+@use '/styles/modules/mixins.scss' as *;
+@use '/styles/modules/func-variables' as *;
+
+@mixin tablet-css {
+    @media (min-width: 768px) {
+
+        header {
+            // padding: 4rem pxtoRem(325px) 4rem pxtoRem(324px);
+            margin-bottom: 4rem;
+        }
+
+        #left-hero-img {
+            content: url("/styles/assets/tablet/image-hero.png");
+            max-width: pxtoRem(820px);
+        }
+
+        .hero-box {
+            max-width: pxtoRem(457px);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        h1 {
+            max-width: pxtoRem(339px);
+            @include h1-properties($font-size:3rem, $line-height:3rem);
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .button-box {
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: pxtoRem(80px);
+        }
+
+        .blue-button {
+            margin-right: 1rem;
+            margin-bottom: 0;
+            min-height: pxtoRem(65.63px);
+
+        }
+
+        .purple-btn {
+            min-height: pxtoRem(65.63px);
+        }
+
+        .picture-grid {
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            grid-template-rows: 1fr;
+            margin-right: pxtoRem(40px);
+            margin-left: pxtoRem(39px);
+            margin-bottom: 3rem;
+            gap: pxtoRem(11px);
+        }
+
+        .picture-grid > img {
+            max-width: pxtoRem(164px);
+        }
+
+        .below-grid-speigl {
+            margin-right: pxtoRem(98px);
+            margin-left: pxtoRem(97px);
+        }
+
+        h3 {
+            margin-right: auto;
+            margin-left: auto;
+            margin-bottom: 1rem;
+        }
+
+        .below-grid-speigl > h2 {
+            margin-right: pxtoRem(63px);
+            margin-left: pxtoRem(65px);
+            margin-bottom: 2rem;
+            @include h2-properties($font-size: pxtoRem(40px), $line-height: pxtoRem(44px));
+        }
+
+        .below-grid-speigl > p {
+            margin-bottom: 0;
+        }
+
+        #second {
+            top: 80px;
+        }
+
+        footer {
+            background-image: linear-gradient(rgba(77, 150, 169, .75), rgba(77, 150, 169, .75)), url("./assets/tablet/image-footer.jpg");
+            margin-top: -10px;
+        }
+
+        footer > h2 {
+            @include h2-properties($font-size: pxtoRem(40px), $line-height: pxtoRem(44px), $color: #fafafa);
+            max-width: pxtoRem(457px);
+            margin-bottom: 2rem;
+        }
+
+        footer > p {
+            margin-right: pxtoRem(98px);
+            margin-left: pxtoRem(97px);
+            margin-bottom: 2.5rem;
+        }
+
+        .footer-btn {
+            margin-bottom: pxtoRem(66px);
+            max-width: pxtoRem(193px);
+        }
+    }
+}

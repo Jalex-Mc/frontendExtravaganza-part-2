@@ -1,0 +1,131 @@
+@use 'sass:math';
+// $whitish-color: #fcfaf9;
+// $purplish-bluish-color: #191826;
+@function pxtoRem($pxValue) {
+    @return math.div($pxValue, 16px) * 1rem;
+}
+
+@mixin desktop-css {
+    @media (min-width: 1440px) {
+        body {
+            background-image: url('/styles/bg-main-desktop.png');
+            background-position: -280px -265px;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            margin-left: pxtoRem(166.15px);
+            margin-bottom: pxtoRem(127.01px);
+        }
+
+        #background-pattern {
+            top: -254px;
+            right: -295px;
+        }
+
+        .hero-section {
+            margin: 0 pxtoRem(287px) pxtoRem(321px) pxtoRem(164.5px);
+            overflow-clip-margin: 295px;
+        }
+
+        .left-hero-section > h1 {
+            font-size: pxtoRem(88px);
+            line-height: pxtoRem(88px);
+            letter-spacing: pxtoRem(-1px);
+            max-width: pxtoRem(1015px);
+            margin-bottom: pxtoRem(40px);
+        }
+
+        .left-hero-section > p {
+            font-size: pxtoRem(20px);
+            line-height: pxtoRem(34px);
+            max-width: pxtoRem(825px); 
+        }
+
+        .mid-section {
+            margin-left: pxtoRem(165px);
+            margin-right: pxtoRem(165px);
+            margin-bottom: pxtoRem(202px);
+            // overflow: hidden;
+        }
+
+        #phone {
+            max-width: pxtoRem(312px);
+            top: -205px;
+            left: 103px;
+        }
+
+        #background-pattern-2 {
+            min-width: pxtoRem(312px);
+            position: absolute;
+            left: 336px;
+            top: -35px;
+        }
+
+        .download-section > h2 {
+            font-size: pxtoRem(40px);
+            line-height: pxtoRem(52px);
+            margin-left: pxtoRem(54px);
+            margin-right: pxtoRem(59px);
+            margin-bottom: pxtoRem(22px);
+        }
+
+        .download-section > p {
+            font-size: pxtoRem(20px);
+            line-height: pxtoRem(34px);
+            margin-bottom: pxtoRem(39px);
+            margin-left: pxtoRem(54px);
+            margin-right: pxtoRem(59px);
+        }
+
+        .download-section {
+            top: 100px;
+            left: 570px;
+            padding: pxtoRem(58px) 0 pxtoRem(48px);
+            min-width: pxtoRem(446px);
+        }
+
+        #ios-button:hover {
+            background-color: #66e2dc;
+            cursor: pointer;
+        }
+
+        #android-button:hover {
+            background-color: #ffb964;
+            cursor: pointer;
+        }
+
+        #amount {
+            margin-bottom: pxtoRem(46px);
+        }
+
+        footer {
+            margin-left: pxtoRem(165px);
+            margin-right: pxtoRem(165px);
+            margin-bottom: pxtoRem(91px);
+            display: flex;
+            flex-direction: row;
+        }
+
+        footer > img {
+            align-self: start;
+            margin-right: pxtoRem(137.76px);
+        }
+
+        .footer-flex > p {
+            margin-right: pxtoRem(359px);
+        }
+
+        #socials {
+            align-items: center;
+            align-content: center;
+        }
+
+        a > img:hover {
+            filter: invert(52%) sepia(47%) saturate(1115%) hue-rotate(326deg) brightness(105%) contrast(96%);
+            cursor: pointer;
+        }
+
+    }
+}

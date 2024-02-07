@@ -1,0 +1,14 @@
+@use 'sass:math';
+
+@function pxtoRem($pxValue) {
+    @return math.div($pxValue, 16px) * 1rem;
+}
+
+$hero-blue: #4d96a9;
+$hero-purple: #855fb1;
+$hover-blue: #8fe3f9;
+$hover-purple: #d988ff;
+$dark-text: #28283d;
+$gray-text: #87879d;
+
+

@@ -1,0 +1,227 @@
+@use 'tablet' as *;
+@use 'desktop' as *;
+@use 'sass:math';
+
+@function pxtoRem($pxValue) {
+    @return math.div($pxValue, 16px) * 1rem;
+}
+
+$whitish-color: #fcfaf9;
+$purplish-bluish-color: #191826;
+
+@media (min-width: 375px) {
+    body {
+        background-image: url('/styles/bg-main-mobile.png');
+        background-repeat: no-repeat;
+        background-position: 0 -250px;
+        position: relative;
+        font-family: 'IBM Plex Sans', sans-serif;
+        font-weight: 400;
+    }
+
+    header {
+        margin: pxtoRem(39.99px) 0 pxtoRem(64.01px) pxtoRem(24.15px);
+        margin-top: pxtoRem(39.99px);
+        margin-bottom: pxtoRem(64.01px);
+        margin-left: pxtoRem(24.15px);
+    }
+
+    #logo-header {
+        min-width: pxtoRem(146.09px);
+    }
+
+    #background-pattern {
+        display: none;
+    }
+
+    .hero-section {
+        margin: 0 pxtoRem(24px) pxtoRem(166px);
+        overflow-x: clip;
+        overflow-clip-margin: 295px;
+    }
+
+    .left-hero-section > h1 {
+        font-size: pxtoRem(40px);
+        font-weight: bold;
+        line-height: pxtoRem(48px);
+        letter-spacing: pxtoRem(-0.45px);
+        text-align: left;
+        margin: 0;
+        margin-bottom: pxtoRem(20px);
+        max-width: pxtoRem(327px);
+    }
+
+    .left-hero-section > p {
+        font-size: pxtoRem(16px);
+        line-height: pxtoRem(26px);
+        letter-spacing: 0;
+        margin: 0;
+    }
+
+    .mid-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0 0 pxtoRem(390px) 0;
+        background-color: $purplish-bluish-color;
+        position: relative;
+        height: pxtoRem(546px);
+    }
+
+    #background-pattern-2 {
+        max-width: pxtoRem(280px);
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    #phone {
+        position: absolute;
+        max-width: pxtoRem(208.97px);
+        top: -100px;
+    }
+
+    .download-section {
+        display: flex;
+        flex-direction: column;
+        background-color: #fa7453;
+        position: absolute;
+        top: 380px;
+        padding: pxtoRem(48px) 0;
+        color: $whitish-color;
+        border-radius: 12px;
+    }
+
+    .download-section > h2 {
+        font-weight: bold;
+        font-size: pxtoRem(32px);
+        line-height: pxtoRem(40px);
+        letter-spacing: 0;
+        margin: 0 pxtoRem(37px) pxtoRem(12px) pxtoRem(36px);
+    }
+
+    .download-section > p {
+        font-size: pxtoRem(18px);
+        line-height: pxtoRem(28px);
+        letter-spacing: 0;
+        margin: 0 pxtoRem(37px) pxtoRem(36px) pxtoRem(36px);
+    }
+
+    #cost {
+        display: flex;
+        min-width: pxtoRem(52px);
+        color: $whitish-color;
+    }
+
+    #amount {
+        font-weight: bold;
+        font-size: pxtoRem(65px);
+        line-height: pxtoRem(52px);
+        letter-spacing: 0;
+        margin: 0 pxtoRem(16px) pxtoRem(32px) pxtoRem(42px);
+    }
+
+    #month {
+        font-size: pxtoRem(20px);
+        line-height: pxtoRem(32px);
+        letter-spacing: pxtoRem(-.2px);
+        text-align: center;
+    }
+
+    button {
+        margin: 0 pxtoRem(37px) pxtoRem(16px) pxtoRem(42px);
+        border: none;
+        min-width: pxtoRem(296px);
+        max-height: pxtoRem(61px);
+    }
+
+    #ios-button {
+        padding: pxtoRem(15px) 0 pxtoRem(14px);
+        background-color: $purplish-bluish-color;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: pxtoRem(12px);
+        color: $whitish-color;
+    }
+
+    #ios-button > img {
+        min-width: pxtoRem(17.08px);
+        margin-right: pxtoRem(7.92px);
+    }
+
+    #ios-button > p {
+        min-width: pxtoRem(117px);
+        font-weight: bold;
+        font-size: pxtoRem(18px);
+        line-height: pxtoRem(32px);
+        letter-spacing: pxtoRem(-0.18px);
+        text-align: center;
+        margin: 0;
+    }
+    
+    #android-button {
+        padding: pxtoRem(15px) 0 pxtoRem(14px);
+        background-color: $whitish-color;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: pxtoRem(12px);
+        color: $purplish-bluish-color;
+        margin-bottom: 0;
+    }
+
+    #android > img {
+        min-width: pxtoRem(17.08px);
+        max-height: pxtoRem(20px);
+        margin-right: pxtoRem(7.8px);
+    }
+
+    #android-button > p {
+        min-width: pxtoRem(117px);
+        font-weight: bold;
+        font-size: pxtoRem(18px);
+        line-height: pxtoRem(32px);
+        letter-spacing: pxtoRem(-0.18px);
+        text-align: center;
+        margin: 0;
+    }
+
+    footer {
+        padding: pxtoRem(64px) pxtoRem(24px) pxtoRem(80px);
+    }
+
+    footer > img {
+        min-width: pxtoRem(146.09px);
+        margin-bottom: pxtoRem(32.01px);  
+    }
+
+    .footer-flex {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        margin-bottom: pxtoRem(80px);
+    }
+
+    .footer-flex > p {
+        font-size: 1rem;
+        line-height: pxtoRem(26px);
+        letter-spacing: 0;
+        color: $purplish-bluish-color;
+        margin-bottom: 4rem;
+    }
+
+    #socials {
+        display: flex;
+        justify-content: space-between;
+        max-width: pxtoRem(100px);
+    }
+
+    #socials > img {
+        min-width: pxtoRem(20px);
+        min-height: pxtoRem(20px);
+    }
+
+}
+@include tablet-css;
+@include desktop-css;
