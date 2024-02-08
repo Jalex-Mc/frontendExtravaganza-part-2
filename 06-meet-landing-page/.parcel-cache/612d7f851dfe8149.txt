@@ -1,8 +1,15 @@
-6077
+6094
+128O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\lmdb\node_modules\node-addon-api\tools133518235858968430 1
+117O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@swc\helpers\_\_await_value133518235863965529 1
+108O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\is-json\.npmignore133518235853908342 0
+87O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\.gitignore133518236642476575 0
+137O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133518235863857751 0
+136O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133518235853515827 0
+128O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\type-fest\source\iterable-element.d.ts133518235858463915 0
 94O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\sass133518235861588250 1
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\regions\AX.js133518235860640123 0
 146O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\csso\node_modules\css-tree\lib\generator\token-before.js133518235864553347 0
-89O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\package.json133518235054943748 0
+89O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\package.json133518239134232691 0
 112O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\ordered-binary\LICENSE133518235853411760 0
 118O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\nth-check\lib\compile.js.map133518235857098480 0
 94O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\package-lock.json133518235875315589 0
@@ -21,7 +28,7 @@
 113O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\escalade\dist\index.mjs133518235855921084 0
 117O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\events\package.json133518235857512748 0
 166O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\default.js133518235860333622 0
-81O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist133518235965875084 1
+81O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist133518242257780235 1
 131O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@swc\helpers\_\_skip_first_generator_next133518235864972481 1
 113O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\utility-types\README.md133518235857467251 0
 116O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\lib133518235853988892 1
@@ -43,10 +50,6 @@
 114O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\styles\assets\mobile\image-footer.jpg133518234527166844 0
 87O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\index.html133518234526676134 0
 140O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\features\internationalization.js133518235866550568 0
-115O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\semver\functions\patch.js133518235859717584 0
-152O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupIDs.js133518235857164924 0
-83O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\styles133518234527247326 1
-112O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\css-select\lib\sort.js133518235858797200 0
 115O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\semver\functions\valid.js133518235860441054 0
 110O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\msgpackr-extract\src133518235853896518 1
 124O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\svgo\plugins\convertShapeToPath.js133518235860718047 0
@@ -75,7 +78,11 @@
 166O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaFeature.js133518235862012907 0
 102O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\csso\LICENSE133518235853473231 0
 130O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\css-tree\cjs\syntax\node\index-parse.cjs133518235861130721 0
-91O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\screenshot.jpg133518234527067804 0
+91O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\screenshot.jpg133518242464026565 0
+115O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\semver\functions\patch.js133518235859717584 0
+152O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupIDs.js133518235857164924 0
+83O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\styles133518234527247326 1
+112O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\css-select\lib\sort.js133518235858797200 0
 85O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\temp.txt133518234527257343 0
 147O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\csso\node_modules\css-tree\lib\definition-syntax\index.js133518235863884225 0
 90O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\styles\assets133518234527166844 1
@@ -111,6 +118,7 @@
 147O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133518235860673941 0
 105O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\posthtml-render133518235855487266 1
 99O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\commander133518235856639989 1
+107O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-footer.324dc5a6.jpg133518242257462865 0
 109O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\is-json\.travis.yml133518235855764265 0
 104O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\styles\queries\desktop.scss133518235717058752 0
 125O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\lmdb\dependencies\lz4\lib\README.md133518235863387529 0
@@ -395,6 +403,7 @@
 119O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@swc\helpers\esm\_ts_param.js133518235863616849 0
 101O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\emoji-regex133518235855921084 1
 107O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\nth-check\LICENSE133518235853421792 0
+99O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\logo.286fab7a.svg133518242257770112 0
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\regions\PM.js133518235868001826 0
 112O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\browserslist\README.md133518235856731243 0
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\diagnostic\package.json133518235856094521 0
@@ -773,9 +782,6 @@
 145O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133518235857567709 0
 119O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\weak-lru-cache\LRFUExpirer.js133518235855152938 0
 119O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\cosmiconfig\dist\index.js.map133518235857972954 0
-138O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\htmlnano\lib\modules\sortAttributesWithLists.mjs133518235862480488 0
-115O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\sass\types\value\map.d.ts133518235862176907 0
-126O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\node-addon-api\napi-inl.deprecated.h133518235855692673 0
 117O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\dom-serializer\lib\index.js133518235855834182 0
 117O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\weak-lru-cache\package.json133518235856230877 0
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\regions\TH.js133518235869005569 0
@@ -1000,17 +1006,11 @@
 139O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133518235861677786 0
 109O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\cosmiconfig\LICENSE133518235853473231 0
 130O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\type-fest\source\fixed-length-array.d.ts133518235857799930 0
-128O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\lmdb\node_modules\node-addon-api\tools133518235858968430 1
-117O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@swc\helpers\_\_await_value133518235863965529 1
-108O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\is-json\.npmignore133518235853908342 0
-137O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133518235863857751 0
-136O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133518235853515827 0
-128O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\type-fest\source\iterable-element.d.ts133518235858463915 0
 143O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133518235864275734 0
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@swc\helpers\_\_read_only_error133518235864940968 1
-125O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\css-tree\lib\syntax\atrule\index.js133518235864008296 0
 114O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\js-yaml\lib\exception.js133518235856716167 0
 127O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\type-fest\source\merge-exclusive.d.ts133518235858847690 0
+125O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\css-tree\lib\syntax\atrule\index.js133518235864008296 0
 107O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\parcel\lib\bin.js133518235854037843 0
 124O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@babel\helper-validator-identifier133518235856809864 1
 120O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-htmlnano\lib133518235855100481 1
@@ -1559,6 +1559,9 @@
 113O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\sass\types\options.d.ts133518235862310818 0
 123O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\sass\types\value\calculation.d.ts133518235861677786 0
 117O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\sass\types\value\index.d.ts133518235862118200 0
+138O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\htmlnano\lib\modules\sortAttributesWithLists.mjs133518235862480488 0
+115O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\sass\types\value\map.d.ts133518235862176907 0
+126O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\node-addon-api\napi-inl.deprecated.h133518235855692673 0
 139O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133518235855660946 0
 115O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\lmdb\src\v8-functions.cpp133518235862366393 0
 117O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\sass\types\value\mixin.d.ts133518235862209630 0
@@ -1650,6 +1653,7 @@
 142O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\react-refresh\cjs\react-refresh-babel.development.js133518235854709143 0
 132O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\features\css-autofill.js133518235862986887 0
 109O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\htmlparser2\LICENSE133518235853442676 0
+115O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-men-in-meeting.c4cab0da.jpg133518242257603852 0
 141O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133518235854685052 0
 145O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@swc\helpers\esm\_class_apply_descriptor_destructure.js133518235862514331 0
 134O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133518235855732558 0
@@ -2576,6 +2580,7 @@
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\regions\MK.js133518235867306341 0
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\css-tree\lib\tokenizer\names.js133518235864265022 0
 125O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\htmlnano\lib\modules\minifyUrls.mjs133518235862249885 0
+119O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-woman-in-videocall.209dd2f8.jpg133518242257503796 0
 132O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\csso\node_modules\css-tree\lib\syntax\node133518235864743618 1
 129O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\utils\src\relativeBundlePath.js133518235861340058 0
 130O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\features\webworkers.js133518235869616780 0
@@ -3917,6 +3922,7 @@
 131O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@swc\helpers\_\_class_private_method_init133518235864316882 1
 113O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\workers\lib\web133518235860323602 1
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\regions\BH.js133518235861330053 0
+114O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\06-meet-landing-page.3464ddca.js133518242257552363 0
 111O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@lezer\common\LICENSE133518235853573366 0
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\regions\BI.js133518235861363387 0
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\caniuse-lite\data\regions\BJ.js133518235861432312 0
@@ -5440,7 +5446,7 @@
 144O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\utils133518235862118200 1
 155O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker\create.js133518235859497756 0
 153O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\utils\clone.js133518235858207643 0
-92O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\index.html133518235965834413 0
+92O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\index.html133518242257355376 0
 153O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\utils\names.js133518235862133297 0
 145O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@babel\code-frame\node_modules\supports-color\readme.md133518235855475970 0
 157O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\const.js133518235858716065 0
@@ -5492,6 +5498,7 @@
 164O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133518235863091673 0
 161O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\var.js133518235863058049 0
 161O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\lexer.js133518235861781069 0
+107O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-footer.7d6d04b6.jpg133518242257603852 0
 162O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\walker.js133518235863081549 0
 155O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Value.js133518235860708013 0
 165O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\font-face.js133518235860718047 0
@@ -6067,12 +6074,22 @@
 99O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\.bin\svgo133518235870197898 0
 103O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\.bin\svgo.ps1133518235870197898 0
 121O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\node_modules\.bin\update-browserslist-db.cmd133518235870197898 0
+118O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\06-meet-landing-page.3464ddca.js.map133518242257639206 0
 108O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\favicon-32x32.30e62e77.png133518235958185681 0
+108O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\favicon-32x32.8e200ed1.png133518242257503796 0
 107O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-footer.167c463c.jpg133518235958516773 0
 107O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-footer.63caebfe.jpg133518235958185681 0
+107O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-footer.79c390d1.jpg133518242257472893 0
 110O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-hero-left.c81e062c.png133518235964054119 0
+110O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-hero-left.e8ab13f8.png133518242257562425 0
+111O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-hero-right.8b43c19d.png133518242257529066 0
 111O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-hero-right.a370a5e0.png133518235964054119 0
+105O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-hero.bfaa7a13.png133518242257572460 0
 112O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-man-texting.402e0688.jpg133518235964054119 0
+112O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-man-texting.df708be0.jpg133518242257482927 0
 115O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-men-in-meeting.29aa81f9.jpg133518235958516773 0
+120O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\image-women-videochatting.c8cdadb2.jpg133518242257462865 0
 100O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\index.a564700c.css133518235965834413 0
 104O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\index.a564700c.css.map133518235965875084 0
+100O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\index.e0d6eb5d.css133518242257552363 0
+104O:\Onedrive\frontend Mentor\frontendExtravaganza-part-2\06-meet-landing-page\dist\index.e0d6eb5d.css.map133518242257639206 0
